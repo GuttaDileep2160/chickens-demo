@@ -1,1 +1,2 @@
 mutton 65
+chicken 65
